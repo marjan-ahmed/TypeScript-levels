@@ -1,3 +1,4 @@
+// importing our built in module
 import inquirer from "inquirer";
 
 const questions = await inquirer.prompt([
