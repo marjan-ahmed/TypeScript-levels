@@ -1,0 +1,20 @@
+{
+  "name": "level12-using-first-module",
+  "version": "1.0.0",
+  "description": "Our first module will be inquirer (user inpur taking module)",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.8",
+    "inquirer": "^9.2.20"
+  }
+}
